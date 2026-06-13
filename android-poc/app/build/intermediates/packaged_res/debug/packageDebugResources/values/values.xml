@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="xml_fragment_container" type="id"/>
+    <style name="Theme.SsePoc" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+</resources>
