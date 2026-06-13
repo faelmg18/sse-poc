@@ -1,0 +1,24 @@
+# Node
+node_modules/
+server/node_modules/
+
+# Android build
+android-poc/.gradle/
+android-poc/build/
+android-poc/app/build/
+android-poc/local.properties
+android-poc/.idea/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Gradle wrapper jar (pode ser re-gerado)
+# android-poc/gradle/wrapper/gradle-wrapper.jar  <- manter este
+
+# APK/AAB
+*.apk
+*.aab
