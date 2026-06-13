@@ -12,6 +12,9 @@ android-poc/.idea/
 *.iws
 *.ipr
 
+# Article drafts
+post-*.md
+
 # macOS
 .DS_Store
 **/.DS_Store
